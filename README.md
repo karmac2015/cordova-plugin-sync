@@ -1,2 +1,2 @@
 # cordova-plugin-sync
-Synchronise data and media between mobile and server
+Synchronize data and media between mobile and server
